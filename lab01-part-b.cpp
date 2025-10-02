@@ -1,4 +1,4 @@
-#include "Student.hpp"
+#include "student.hpp"
 #include <iostream>
 #include <string>
 using namespace std;
